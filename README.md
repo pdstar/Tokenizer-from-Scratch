@@ -1,6 +1,4 @@
-# Tokenizer from Scratch
-## Coding a Tokenizer from Scratch
-
+# Coding a Tokenizer from Scratch
 
 Here I built a tokenizer from scratch to practice and got familiar with how tokenization works. 
 
